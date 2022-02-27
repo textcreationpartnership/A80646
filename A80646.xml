@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer made by Sr. Robert Cotton, at the command of Prince Henry, to certain propositions of warre and peace, delivered to his Highnesse by some of his military servants Whereunto is adjoyned The French charity; or an essay written in French by an English gentleman, upon occasion of Prince Harcourt's coming into England; and translated into English by F.S.J.E.</title>
+            <author>Cotton, Robert, Sir, 1571-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80646</idno>
+            <idno type="STC">Wing C6478</idno>
+            <idno type="STC">Thomason E1467_2</idno>
+            <idno type="STC">Thomason E1467_3</idno>
+            <idno type="STC">ESTC R208681</idno>
+            <idno type="EEBO-CITATION">99867608</idno>
+            <idno type="PROQUEST">99867608</idno>
+            <idno type="VID">169994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169994)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 188:E1467[2]; 188:E1467[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer made by Sr. Robert Cotton, at the command of Prince Henry, to certain propositions of warre and peace, delivered to his Highnesse by some of his military servants Whereunto is adjoyned The French charity; or an essay written in French by an English gentleman, upon occasion of Prince Harcourt's coming into England; and translated into English by F.S.J.E.</title>
+                  <author>Cotton, Robert, Sir, 1571-1631.</author>
+                  <author>Evelyn, John, 1620-1706, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 96, [2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Sheares, at the Bible in S. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition of this work was published in the same year with title: An answer made by command of Prince Henry.</note>
+                  <note>"The French charity" (Thomason E.1467[3]) has separate title page and pagination; register is continuous.</note>
+                  <note>Translation of "The French charity" sometimes ascribed to John Evelyn -- NUC pre-1956 imprints.</note>
+                  <note>Annotation on Thomason copy: "May 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169994:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>THE FRENCH CHARITY: WRITTEN In <hi>French</hi> by an <hi>Engliſh</hi> Gentleman, upon occaſion of Prince <hi>Harcourt's</hi> coming into <hi>ENGLAND;</hi>
+            </p>
+            <p>
+               <hi>And tranſlated into Engliſh by</hi> F.S.J.E.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Shears,</hi> at the Bible in S. <hi>Paul's</hi> Church-yard, Anno 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169994:2"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="1" facs="tcp:169994:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>THE FRENCH CHARITY.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we ſee that naturall cauſes produce ſometimes contrary effects, that the Sun which draws up the Clouds can alſo ſcatter them, that the ſame Wind both lights and blow's out the taper, that Vipers ſerve for wholeſome medica<g ref="char:EOLhyphen"/>ments, and Scorpions carry about them an An<g ref="char:EOLhyphen"/>tidote to their own poiſon: it is not ſo neverthe<g ref="char:EOLhyphen"/>leſſe in morall and politick affairs, wherein that which is once ill, is alwayes accounted ſuch; from whence is begot in us that quality which we call <hi>Experience,</hi> whereby wiſe men are ac<g ref="char:EOLhyphen"/>cuſtomed to judge of preſent and future actions by thoſe that are paſt. Which is the founda<g ref="char:EOLhyphen"/>tion whereupon all Monarchies and Republicks have eſtabliſhed the Maxims of their ſubſi<g ref="char:EOLhyphen"/>ſtence, and found out both what they ought to follow and what to avoid.</p>
+            <pb n="2" facs="tcp:169994:3"/>
+            <!-- PDF PAGE 31 -->
+            <p>The Charity which <hi>France</hi> hath teſtified to pacify our differences is ſo great that it is be<g ref="char:EOLhyphen"/>come incredible, ſo unſeaſonable that it is ſu<g ref="char:EOLhyphen"/>ſpected, and ſo contrary to their former proceed<g ref="char:EOLhyphen"/>ings that it is quite otherwayes underſtood. Philoſophers ſay, we cannot paſſe from one extremity to another without ſome mean; I cannot ſee by what ſteps they are come to this perfect goodneſs, nor what good <hi>Genius</hi> can have made them in an inſtant ſo good friends of ſuch dangerous neighbours to us. I will paſſe my cenſure upon nothing, yet let me have the liberty to judge of all. I find ſo great a wonder in this change, that I find a conflict in my ſelf to believe it. It is no com<g ref="char:EOLhyphen"/>mon marvell, that thoſe who have for ſo long a time beheld all <hi>Europe</hi> in a flame, and could not be moved by the bloud and destruction of ſo many people to caſt thereon one drop of wa<g ref="char:EOLhyphen"/>ter, ſhould now have their bowells ſo tender as to compaſſionate the diſſenſions ariſing in a corner of the world which hath alwayes bin fatall to them; That thoſe who have made it their chiefest intereſt to divide us, ſhould now make it their glory to reunite us; That thoſe who place their reſt in our troubles, ſhould now apply their cares for our repoſe; and that
+<pb n="3" facs="tcp:169994:3"/>
+               <!-- PDF PAGE 31 -->after they have caſt us down headlong, they ſhould reach us a plank for to come aſhore. Let the wiſe Reader here (whilſt I determine nothing) allow me at leaſt a little diſtruſt; it is the Mother of Safety. The <hi>Trojans,</hi> who could not be overcome by Armes, periſh't by a pledge of peace. All the <hi>French</hi> civilityes are faire and good; but in the bottome</p>
+            <q>Quicquid ideſt, timeo Gallos, &amp; dona fe<g ref="char:EOLhyphen"/>rentes.</q>
+            <p>Let us ſee what reaſons can oblige them to intereſt themſelves ſo paſſionately in our agree<g ref="char:EOLhyphen"/>ment. Is it Religion? ſurely no; for that which they profeſſe is contrary to that of this King<g ref="char:EOLhyphen"/>dome; and the little Charity they have for their own, ought not to perſwade us that they have much for ours. Is it for the inclination they have to peace? ſurely no; for if they eſteemed it a benefit, they would ſeek it firſt for themſelves. It is perhaps for an acknow<g ref="char:EOLhyphen"/>ledgement of their obligations to us in the late warres, and for the aſſiſtance we gave to thoſe of <hi>Rochel.</hi> I, this would be truely Chriſtian indeed, to render us good for evill. They will ſay that they are the bands of blood and pa<g ref="char:EOLhyphen"/>rentage, which bind them to the <hi>Queen;</hi> and yet they have let the Mother beg her ſubſi<g ref="char:EOLhyphen"/>ſtence
+<pb n="4" facs="tcp:169994:4"/>
+               <!-- PDF PAGE 32 -->and retreat among ſtrangers, which ſhe could not find with them, and having beheld her without pitty and ſuccour in her greatest extremities, they adviſe to offer her a remedy upon the declining of her ill. But if this be the reaſon of their admittance, I conceive them no lawfull nor indifferent Mediators, ſince they are ſo much concern'd in one of the parties. They will whiſper us in the eare, that the de<g ref="char:EOLhyphen"/>ſigne is to pacify us, and to ingage us in a league with them againſt the <hi>Spaniard;</hi> al<g ref="char:EOLhyphen"/>though at the ſame time they deſigne Ambaſ<g ref="char:EOLhyphen"/>ſadours for <hi>Munſter</hi> to endeavour a peace with him. O, we ſhould wrong them very much to believe it, though they might ſeem in an hu<g ref="char:EOLhyphen"/>mour to deſire it of us; They are too gallant ſpirited to pretend it, they know that we are better adviſed then to ſerve them to pull their Cheſnut out of the fire; that a body recovering health from a long ſickneſſe ought not to expoſe it ſelf to a violent agitation; that the State will find it ſelf loaden with debts, and the Subject exhauſted by Contributions; that we ought to preferre the evident profit of traffick before the uncertain vanity of a conqueſt; that Iea<g ref="char:EOLhyphen"/>louſies being not yet removed, nor aemulations ſuppreſt, all kind of arming would be ſuſpected
+<pb n="5" facs="tcp:169994:4"/>
+               <!-- PDF PAGE 32 -->by the State, fearing leaſt ſome under pretenſe of a forrain warre might ſtudy private re<g ref="char:EOLhyphen"/>venge, or the oppreſſion of the publick liberty; &amp; that in the end it will be our gain to ſee them deal with <hi>Spain,</hi> and to make our advantage of their troubles, or not to meddle at all with them, unleſſe by adding ſecretly (according to the revolution of affairs) a little weight to them that ſhall be found the lighter. If then it be none of theſe motives, it remains that it muſt be either Generoſity, or deceit. O <hi>Ge<g ref="char:EOLhyphen"/>neroſity</hi> (that hast ſo long ſince withdrawn thy ſelf to heaven, there to keep company with the faire <hi>Aſtraea,</hi> or rather, who wer't buried in <hi>France</hi> in the Sepulchre of Monſieur <hi>Gonin</hi>) is it poſſible that thou ſhouldſt be riſen again, or that <hi>France</hi> ſhould have recall'd thee with her exiles ſince the death of her King; and that the firſt labour ſhe ſhould put thee to ſhould be in favour of <hi>England,</hi> againſt whom but few dayes ſince ſhe ſhewed ſuch violent re<g ref="char:EOLhyphen"/>ſentments, for an offence received by a pre<g ref="char:EOLhyphen"/>tended violation of the treaties which had paſt between us? Truely if it be ſhe, we muſt reve<g ref="char:EOLhyphen"/>rence her with extraordinary reſpects; but before we give her the Honours due unto her, we muſt know her, for feare of Idolatry in
+<pb n="6" facs="tcp:169994:5"/>
+               <!-- PDF PAGE 33 -->adoring her maſque for her ſelf, or embracing a cloud in ſtead of a Goddeſſe. Let us give a thruſt with our launce into the <hi>Trojan</hi> horſe, to ſee if there be no ambuſh within.</p>
+            <p>In walking lately with ſome <hi>French</hi> Gentle<g ref="char:EOLhyphen"/>men (as this nation is free enough of their diſ<g ref="char:EOLhyphen"/>courſe) a word eſcaped from one of the com<g ref="char:EOLhyphen"/>pany without making reflexion (as I think) of what Countrey I was, That amongſt their Prophets there was one which ſaid, That <hi>the Conqueſt of England was promiſed to their young King.</hi> This thought caſt into the aire though inconſideratly, ſeemed to me very con<g ref="char:EOLhyphen"/>ſiderable; and having given me an occaſion to reflect upon all things both paſt and preſent, it ſerved me as a light to guide me in the obſcu<g ref="char:EOLhyphen"/>rity of this Labyrinth, upon which before I had reaſoned but ſuperficially. From thence being returned to my lodging, I opened acciden<g ref="char:EOLhyphen"/>tally a book of Monſieur <hi>de Rohan,</hi> intitled <hi>The intereſt of the Princes of Chriſtendome,</hi> and I fell preſently upon a paſſage where he ſaid, That one of the ſureſt wayes to make ones ſelf Ma<g ref="char:EOLhyphen"/>ſter of a State, is to interpoſe and make himſelf arbiter of its differences. I had no need of any other <hi>Oedipus</hi> to expound to me the riddle of the Propheſy, theſe firſt motives of ſuſpicion
+<pb n="7" facs="tcp:169994:5"/>
+               <!-- PDF PAGE 33 -->having caſt me into more profound thoughts, I revolved in my mind how <hi>France</hi> had managed the whole buſineſs, both before &amp; ſince the begin<g ref="char:EOLhyphen"/>ning of our troubles, and weighed all the cir<g ref="char:EOLhyphen"/>cumstances of this Ambaſſage. Why ſuch a ſolemne Ambaſſage in a time when all things ſeem moſt exaſperated and furtheſt from ac<g ref="char:EOLhyphen"/>commodation? Why then not ſooner, while dif<g ref="char:EOLhyphen"/>ferences were not yet irreconcileable between the two parties? Why ſuch a warlike Prince, who is not experienced in the affaires of this Kingdome, to manage a negotiation of a peace the moſt nice and intricate that the world at this time affords? Why at the ſame time levying of Souldiers in <hi>Normandy,</hi> when all the other troops are in their quarters? Why therefore ſhould they ſupply one of the parties with mony, when they come to act the perſons of media<g ref="char:EOLhyphen"/>tours; if not to caſt wood and oyle into the flame? Why at the ſame time an Agent in <hi>Scotland,</hi> who propounds to them openly a League with <hi>France?</hi> Why begin they onely to turn their cares upon <hi>England,</hi> when they are upon the point of con<g ref="char:EOLhyphen"/>cluding a peace with <hi>Spain?</hi> May not we well judge that it is to prepare themſelves for a new employment? ſince they themſelves con<g ref="char:EOLhyphen"/>feſſe that their boiling and unquiet temper hath
+<pb n="8" facs="tcp:169994:6"/>
+               <!-- PDF PAGE 34 -->need of continuall exerciſe, and that the onely means to prevent troubles at home, is conti<g ref="char:EOLhyphen"/>nually to furniſh them with matter whereupon to evacuate their choler abroad. Why doth onely <hi>France</hi> afford us this ſo ſuddain and un<g ref="char:EOLhyphen"/>expected Charity, after all the freſh wounds which bleed yet among them becauſe of the ex<g ref="char:EOLhyphen"/>pulſion of the <hi>Capuchins,</hi> after the continuall cares ſhe hath taken for ſo many years to lay the foundation of our troubles by the ſecret ne<g ref="char:EOLhyphen"/>gotiations of the Marquis of <hi>Blainville,</hi> by the intriques of the Cardinal of <hi>Richelieu</hi> with <hi>Buckingham,</hi> by the long plots in <hi>Scotland,</hi> and by the open ſollicitations of the Marquis <hi>de la Fert?</hi> by all which they ſometimes incited the Kings miniſters to make him independent and abſolute, offering to that purpoſe their aſſi<g ref="char:EOLhyphen"/>ſtance, and anone they ſollicited the States to ſhake off the yoak of ſervitude, finally they transformed themſelves into a thouſand diffe<g ref="char:EOLhyphen"/>rent ſhapes, till having plunged us deep enough in the gulf, they then call back their Ambaſ<g ref="char:EOLhyphen"/>ſage, to give in appearance ſome ſatisfaction to the King, but in truth becauſe his commiſſion was expired. May not we well conclude from all this, that they will now reape the fruits they have ſo carefully ſown and cultivated amongſt us?
+<pb n="9" facs="tcp:169994:6"/>
+               <!-- PDF PAGE 34 -->From theſe conſiderations falling inſenſibly on thoſe of <hi>England,</hi> what need (ſaid I in my ſelf) have we of the intermeddling of ſtran<g ref="char:EOLhyphen"/>gers? are they more verſed in our intereſts then our ſelves? can they afford more expedients? are they more ſenſible of our miſeries then thoſe that ſuffer them? Is it to exhort us, or to conſtrain us? the firſt is ſuperfluous; the ſe<g ref="char:EOLhyphen"/>cond dangerous. It muſt needs be that either in the one caſe they think to go beyond us in wit, or in the other to maſter us by force. If peace be profitable for us, have we any need either of a Maſter to make us know our advantage, or of an Oratour to perſwade us to it? If it be hurt<g ref="char:EOLhyphen"/>full to us, we ought to give them thanks for their advice, but follow that which is better. If the peace be feaſible, why ſhould we leave the glory of it to other? if impoſsible, why looſe time in making vain propoſitions? why ſhould we acquaint ſtrong and ambitious neighbours, and truſt the <hi>Philiſtins</hi> with the ſecret of our force? Muſt <hi>England,</hi> that hath in times paſt compelled <hi>France</hi> to purchaſe peace, be now con<g ref="char:EOLhyphen"/>ſtrained to beg it of her? that one of the moſt conſiderable and flouriſhing Monarchies of the world ſhould ſerve for matter of ſport to the vanity of the <hi>French,</hi> and be the firſt upon
+<pb n="10" facs="tcp:169994:7"/>
+               <!-- PDF PAGE 35 -->whom they exerciſe the Title they give them<g ref="char:EOLhyphen"/>ſelves of being Arbiters of Chriſtendome? What Counſel then ſhall we follow in this en<g ref="char:EOLhyphen"/>counter? That of good and wiſe Nature, who having ſeparated us from all other Nations by a vast and deep trench, ſilently teacheth us, that the principle of our ſubſiſtence is in our ſelves, and that we ought not to ſubmit our govern<g ref="char:EOLhyphen"/>ment to the arbitrement of others.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169994:7"/>
+            <!-- PDF PAGE 35 -->
+         </div>
+      </body>
+   </text>
+</TEI>
